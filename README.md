@@ -1,0 +1,1 @@
+# ava_solid_arch
